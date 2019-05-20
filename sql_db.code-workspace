@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"vscode-postgres.defaultConnection": "Intek",
+		"vscode-postgres.defaultDatabase": "db_dump",
+
+	}
+}

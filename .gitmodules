@@ -1,3 +1,6 @@
 [submodule "SQL_Joins"]
 	path = SQL_Joins
 	url = https://github.com/Shekcon/SQL_JOIN.git
+[submodule "SQL_Advanced"]
+	path = SQL_Advanced
+	url = https://github.com/Shekcon/SQL_Advanced.git

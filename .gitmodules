@@ -4,3 +4,9 @@
 [submodule "SQL_Advanced"]
 	path = SQL_Advanced
 	url = https://github.com/Shekcon/SQL_Advanced.git
+[submodule "SQL_CRUD"]
+	path = SQL_CRUD
+	url = https://github.com/Shekcon/SQL_CRUD.git
+[submodule "SQL_Basic"]
+	path = SQL_Basic
+	url = https://github.com/Shekcon/SQL_Basic.git
